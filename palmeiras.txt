@@ -1,37 +1,88 @@
-1 Copa Rio (Torneio Internacional de Clubes Campeões): 1951;
-3 Conmebol Libertadores: 1999, 2020 e 2021;
-12 Campeonatos Brasileiros: 1960, 1967, 1967 (Taça Brasil), 1969 1972, 1973, 1993, 1994, 2016, 2018, 2022 e 2023;
-2 Campeonatos Brasileiros Série B: 2003 e 2013;
-4 Copas do Brasil: 1998, 2012, 2015 e 2020;
-1 Copa dos Campeões: 2000;
-1 Supercopa do Brasil: 2023;
-26 Campeonatos Paulistas: 1920, 1926, 1927, 1932, 1933, 1934, 1936, 1940, 1942, 1944, 1947, 1950, 1959, 1963, 1966, 1972, 1974, 1976, 1993, 1994, 1996, 2008, 2020, 2022, 2023 e 2024;
-5 Torneios Rio-São Paulo: 1933, 1951, 1965, 1993 e 2000.
-3 Troféu Ramón de Carranza: 1969, 1974 e 1975
-2 Torneio do México: 1959 e 1963
-2 Torneio Euro-América: 1991 e 1996
-1 Troféu Estevão Ronai: 1929
-1 Taça Fanfulla: 1929
-1 Taça C. Giusti: 1931
-1 Torneio das Missões: 1947
-1 Taça Peñarol: 1951
-1 Troféu Cidade do México: 1952
-1 Torneio Quadrangular de Lima: 1962
-1 Torneio Cidade de Manizales: 1962
-1 Torneio de Florença: 1963
-1 Copa IV Centenário do Rio de Janeiro: 1965
-1 Taça Independência Brasil-Uruguai: 1965
-1 Torneio Internacional João Havelange: 1966
-1 Copa Brasil-Japão: 1967
-1 Troféu Cidade de Barcelona: 1969
-1 Copa da Grécia: 1970
-1 Torneio Mar Del Plata: 1972
-1 Copa Centenário da Imigração Italiana: 1975
-1 Copa Kirin: 1978
-1 Troféu Ademir da Guia: 1982
-1 Copa Brasil-Itália: 1994
-1 Torneio Lev Yashin: 1994
-1 Copa da China: 1996
-1 Torneio Naranja: 1997
-1 Copa Mercosul: 1998
-1 Torneio da Flórida: 2020
+1º Campeonato Paulista: 1920  
+2º Campeonato Paulista: 1926  
+3º Campeonato Paulista: 1927  
+1º Troféu Estevão Ronai: 1929  
+1ª Taça Fanfulla: 1929  
+1ª Taça C. Giusti: 1931  
+4º Campeonato Paulista: 1932  
+5º Campeonato Paulista: 1933  
+1º Torneio Rio-São Paulo: 1933  
+6º Campeonato Paulista: 1934  
+7º Campeonato Paulista: 1936  
+8º Campeonato Paulista: 1940  
+9º Campeonato Paulista: 1942  
+10º Campeonato Paulista: 1944  
+1º Torneio das Missões: 1947  
+11º Campeonato Paulista: 1947  
+12º Campeonato Paulista: 1950  
+1ª Copa Rio (Torneio Internacional de Clubes Campeões): 1951  
+2º Torneio Rio-São Paulo: 1951  
+1ª Taça Peñarol: 1951  
+1º Troféu Cidade do México: 1952  
+1º Torneio Quadrangular de Lima: 1962  
+1º Torneio Cidade de Manizales: 1962  
+2º Torneio do México: 1963  
+2º Campeonato Paulista: 1963  
+1º Torneio de Florença: 1963  
+1º Campeonato Brasileiro: 1960  
+13º Campeonato Paulista: 1959  
+1º Torneio do México: 1959  
+14º Campeonato Paulista: 1966  
+2º Campeonato Brasileiro: 1967  
+3º Campeonato Brasileiro: 1967 (Taça Brasil)  
+1ª Copa Brasil-Japão: 1967  
+1º Torneio Internacional João Havelange: 1966  
+1ª Copa IV Centenário do Rio de Janeiro: 1965  
+1ª Taça Independência Brasil-Uruguai: 1965  
+3º Torneio Rio-São Paulo: 1965  
+5º Campeonato Brasileiro: 1969  
+1º Torneio Cidade de Barcelona: 1969  
+1º Troféu Ramón de Carranza: 1969  
+15º Campeonato Paulista: 1972  
+6º Campeonato Brasileiro: 1972  
+1º Torneio Mar Del Plata: 1972  
+16º Campeonato Paulista: 1974  
+2º Troféu Ramón de Carranza: 1974  
+3º Troféu Ramón de Carranza: 1975  
+1ª Copa Centenário da Imigração Italiana: 1975  
+17º Campeonato Paulista: 1976  
+1ª Copa Kirin: 1978  
+1º Troféu Ademir da Guia: 1982  
+7º Campeonato Brasileiro: 1973  
+2º Torneio Euro-América: 1991  
+8º Campeonato Brasileiro: 1993  
+18º Campeonato Paulista: 1993  
+4º Torneio Rio-São Paulo: 1993  
+9º Campeonato Brasileiro: 1994  
+19º Campeonato Paulista: 1994  
+1ª Copa Brasil-Itália: 1994  
+1º Torneio Lev Yashin: 1994  
+20º Campeonato Paulista: 1996  
+2º Torneio Euro-América: 1996  
+1ª Copa da China: 1996  
+1º Torneio Naranja: 1997  
+1ª Copa Mercosul: 1998  
+1ª Copa do Brasil: 1998  
+1º Conmebol Libertadores: 1999  
+5º Torneio Rio-São Paulo: 2000  
+1ª Copa dos Campeões: 2000  
+2º Campeonato Brasileiro Série B: 2003  
+22º Campeonato Paulista: 2008  
+2ª Copa do Brasil: 2012  
+3º Campeonato Brasileiro Série B: 2013  
+3ª Copa do Brasil: 2015  
+10º Campeonato Brasileiro: 2016  
+11º Campeonato Brasileiro: 2018  
+23º Campeonato Paulista: 2020  
+4ª Copa do Brasil: 2020  
+2º Conmebol Libertadores: 2020  
+1º Torneio da Flórida: 2020  
+3º Conmebol Libertadores: 2021  
+24º Campeonato Paulista: 2022  
+12º Campeonato Brasileiro: 2022  
+25º Campeonato Paulista: 2023  
+13º Campeonato Brasileiro: 2023  
+1ª Supercopa do Brasil: 2023  
+26º Campeonato Paulista: 2024  
+
+
